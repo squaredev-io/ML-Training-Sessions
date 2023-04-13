@@ -1,2 +1,2 @@
 # ML-Training-Sessions
-In this folder you will find everything related to S4. 
+In this folder you will find everything related to S4.
